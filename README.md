@@ -2,7 +2,8 @@
 
 Companion program for "Generalization with quantum geometry for learning unitaries" by T. Haug, M.S. Kim.
 
-Requires python, matplotlib, scipy
+Requires python, matplotlib, scipy, qutip
+
 NOTE: Requires older version of qutip, namely <=4.7.5, install via "pip install qutip==4.7.5"
 
 
